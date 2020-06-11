@@ -2,6 +2,7 @@ HI This is Hello world.
 Adding 2nd line now 
 Adding changes on this file in repo
 2nd change on local machine.
-will check in remote:wq
+will check in remote:w
 Final changes done..
+this is for dbs commit
 
